@@ -4,4 +4,4 @@
 
 ## VSCode edit on this line using .dev from Github
 
-### Edited this poart in a codespace
+### Edited this part in a codespace
